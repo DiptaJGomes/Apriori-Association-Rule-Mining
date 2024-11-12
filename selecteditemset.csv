@@ -1,0 +1,7 @@
+itemset,support,confidence
+"{'great_pret', 'proper'}",0.081,1
+"{'great_pret', 'proper', 'convenient'}",0.06,1
+"{'great_pret', 'convenient'}",0.05,1
+"{'great_pret', 'inconv', 'proper'}",0.04,1
+"{'priority', 'great_pret', 'proper'}",0.048,1
+
